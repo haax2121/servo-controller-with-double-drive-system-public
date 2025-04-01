@@ -6,5 +6,7 @@ Design of a servo controller built to move battery packs and control electronics
 <img src="hardware\pcb_3d_model.PNG" width="800">
 <img src="hardware\top_and_bottom_layer.png" width="800">
 <img src="hardware\pcb_assembled_2.png" width="800">
+<img src="unmand_aircraft.png" width="800">
+
 
 
