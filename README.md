@@ -3,7 +3,7 @@ Design of a servo controller built to move battery packs and control electronics
 
 <img src="working.gif" width="800">
 <img src="test_stand.PNG" width="800">
-<img src="pcb_3d_model.PNG" width="800">
+<img src="hardware\pcb_3d_model.PNG" width="800">
 <img src="hardware\pcb_assembled_2.png" width="800">
 
 
